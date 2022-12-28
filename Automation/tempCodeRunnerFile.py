@@ -1,0 +1,1 @@
+pg.moveTo(1223,671,duration=1)
